@@ -1,0 +1,11 @@
+type,duration,listed_in,duration_num,main_genre,cluster
+Movie,90 min,Dramas,90.0,Dramas,2
+TV Show,2 Seasons,Kids,2.0,Kids,0
+Movie,120 min,Action,120.0,Action,1
+TV Show,1 Season,Reality,1.0,Reality,0
+Movie,100 min,Comedies,100.0,Comedies,2
+TV Show,3 Seasons,Documentaries,3.0,Documentaries,0
+Movie,95 min,Horror,95.0,Horror,2
+TV Show,4 Seasons,Animation,4.0,Animation,0
+Movie,105 min,Romance,105.0,Romance,1
+TV Show,2 Seasons,Reality,2.0,Reality,0

@@ -1,0 +1,11 @@
+type,duration,listed_in
+Movie,90 min,Dramas
+TV Show,2 Seasons,Kids
+Movie,120 min,Action
+TV Show,1 Season,Reality
+Movie,100 min,Comedies
+TV Show,3 Seasons,Documentaries
+Movie,95 min,Horror
+TV Show,4 Seasons,Animation
+Movie,105 min,Romance
+TV Show,2 Seasons,Reality
