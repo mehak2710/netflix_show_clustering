@@ -20,11 +20,12 @@ This mini-project performs clustering on a small custom Netflix dataset based on
 * **Scikit-learn** – K-Means clustering, OneHotEncoder, and PCA
 * **Matplotlib** – Scatter plot visualization
 * **Jupyter Notebook** – Interactive documentation and execution
-
+  
 ## 📊 KPIs (Key Performance Indicators)
 
 * Processed and engineered **100% of dataset features**, including duration and genre extraction for clustering
 * Achieved **~90% dimensionality reduction using PCA**, improving clarity and interpretability of resulting clusters
 * Identified **3+ distinct show clusters**, improving understanding of content patterns and segmentation
-* Built a **fully automated preprocessing-to-clustering pipeline**, enabling reproducibility and scalability
-* Delivered **visual insights supporting faster analysis and interpretation** of content distribution
+
+
+
